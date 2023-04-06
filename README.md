@@ -5,12 +5,12 @@
 ## Abaixo você encontra informações sobre o projeto :page_facing_up:
 
 <ul>
-    <li><a href="">Clique aqui</a> para ver o site ao vivo!</li>
+    <li><a href="https://portfolio-fhs.vercel.app/">Clique aqui</a> para ver o site ao vivo!</li>
 	<li>Contém uso de JavaScript para o menu responsivo</li>
     <li>O site contém responsividade</li>
     <li>É o meu primeiro portfólio feito. Críticas são sempre bem-vindas!</li>
 </ul>
 
 
-<p><strong>Caso queira deixar alguma mensagem é só entrar no site, navegue até a aba de contato e veja qual opção é melhor para você! ;)</strong></p>
+<p><strong>Caso queira deixar alguma mensagem, entre no site do meu portfólio e navegue até a aba de contato. Deixe-me saber o que você pensa! ;)</strong></p>
 
